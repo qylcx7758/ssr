@@ -30,15 +30,12 @@
 #### 1. 文章主要讲述整体流程，其他不多赘述，自行下载Xshell
 
 #### 2. 新增服务器连接
-
 ![](https://user-gold-cdn.xitu.io/2019/2/11/168dbac4c3e40730?w=616&h=303&f=png&s=31853)
 
 - 输入需要连接的服务器地址
-
 ![](https://user-gold-cdn.xitu.io/2019/2/11/168dbae73012fbcc?w=542&h=454&f=png&s=38410)
 
 - 输入密码
-
 ![](https://user-gold-cdn.xitu.io/2019/2/11/168dbb11f8e62496?w=586&h=486&f=png&s=47060)
 
 #### 3. 点 文件>打开，选中会话，进行连接
