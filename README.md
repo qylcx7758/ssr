@@ -140,7 +140,9 @@ wget --no-check-certificate -O rskernel.sh https://raw.githubusercontent.com/uxh
 yum install net-tools -y && wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh && bash appex.sh install
 ```
 
-然后回到 Xshell 软件，鼠标右键选择粘贴，回车继续。
+然后回到 Xshell 软件，鼠标右键选择粘贴;
+
+碰到的三个选择都是直接回车继续;
 
 
 设置完三项信息完成后，系统会完成锐速安装并输出锐速的运行状态。
